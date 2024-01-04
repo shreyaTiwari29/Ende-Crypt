@@ -3,6 +3,7 @@ import CryptoJS from 'crypto-js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
+import './Input.css'
 export const Output =(props)=>{
     const [mes,setMes]=useState("");
     const [key,setKey]=useState("");
@@ -23,7 +24,7 @@ export const Output =(props)=>{
     }
     return(
         <>
-        <Form className='border p-5 border-black border-2' onSubmit={submit}>
+        <Form className='border p-5 border-black box1 border-2' onSubmit={submit}>
         <Form.Group className="mb-3">
             <Form.Label>Enter your Encrypted Message :</Form.Label>
             <Form.Control type="text" value={mes} placeholder="your encrypted message will go here....." required id='mes' onChange={(e)=>{setMes(e.target.value)}} />
@@ -36,9 +37,9 @@ export const Output =(props)=>{
             Submit
         </Button>
         </Form>
-        <div>
+        <div className='decrypt1' >
             <h3>Decrypted message :</h3>
-            <p id='decrypt'>{decryptedMess}</p>
+            <textarea id='decrypt'>{decryptedMess}</textarea>
         </div>
         </>
     );

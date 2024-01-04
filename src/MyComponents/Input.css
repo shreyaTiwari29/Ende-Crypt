@@ -1,0 +1,21 @@
+.encrypt1,.decrypt1{
+    margin: 20px;
+    width: 100%;
+    padding: 5px;
+}
+#encrypt,#decrypt{
+    width: 100%;
+    height: fit-content;
+    border: none;
+}
+@media only screen and (max-width:500px){
+    .box1{
+      width: 100%;
+      margin-bottom: 10px;
+      height: fit-content;
+      padding: 2px!important;
+    }
+    .encrypt1,.decrypt1{
+        margin: 2px;
+    }
+  }
