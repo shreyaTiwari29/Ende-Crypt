@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ende-Cryt/static/css/main.14fd4eae.css",
-    "main.js": "/Ende-Cryt/static/js/main.b211d2f5.js",
-    "static/js/787.6fed7b22.chunk.js": "/Ende-Cryt/static/js/787.6fed7b22.chunk.js",
-    "index.html": "/Ende-Cryt/index.html",
-    "main.14fd4eae.css.map": "/Ende-Cryt/static/css/main.14fd4eae.css.map",
-    "main.b211d2f5.js.map": "/Ende-Cryt/static/js/main.b211d2f5.js.map",
-    "787.6fed7b22.chunk.js.map": "/Ende-Cryt/static/js/787.6fed7b22.chunk.js.map"
+    "main.css": "/Ende-Crypt/static/css/main.14fd4eae.css",
+    "main.js": "/Ende-Crypt/static/js/main.281a19eb.js",
+    "static/js/787.6fed7b22.chunk.js": "/Ende-Crypt/static/js/787.6fed7b22.chunk.js",
+    "index.html": "/Ende-Crypt/index.html",
+    "main.14fd4eae.css.map": "/Ende-Crypt/static/css/main.14fd4eae.css.map",
+    "main.281a19eb.js.map": "/Ende-Crypt/static/js/main.281a19eb.js.map",
+    "787.6fed7b22.chunk.js.map": "/Ende-Crypt/static/js/787.6fed7b22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14fd4eae.css",
-    "static/js/main.b211d2f5.js"
+    "static/js/main.281a19eb.js"
   ]
 }
