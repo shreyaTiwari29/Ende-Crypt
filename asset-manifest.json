@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ende-Cryt/static/css/main.14fd4eae.css",
+    "main.js": "/Ende-Cryt/static/js/main.b211d2f5.js",
+    "static/js/787.6fed7b22.chunk.js": "/Ende-Cryt/static/js/787.6fed7b22.chunk.js",
+    "index.html": "/Ende-Cryt/index.html",
+    "main.14fd4eae.css.map": "/Ende-Cryt/static/css/main.14fd4eae.css.map",
+    "main.b211d2f5.js.map": "/Ende-Cryt/static/js/main.b211d2f5.js.map",
+    "787.6fed7b22.chunk.js.map": "/Ende-Cryt/static/js/787.6fed7b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fd4eae.css",
+    "static/js/main.b211d2f5.js"
+  ]
+}
