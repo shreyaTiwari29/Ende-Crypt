@@ -39,7 +39,7 @@ export const Output =(props)=>{
         </Form>
         <div className='decrypt1' >
             <h3>Decrypted message :</h3>
-            <textarea id='decrypt'>{decryptedMess}</textarea>
+            <p id='decrypt'>{decryptedMess}</p>
         </div>
         </>
     );
