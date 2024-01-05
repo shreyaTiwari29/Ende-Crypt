@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ende-Crypt/static/css/main.14fd4eae.css",
-    "main.js": "/Ende-Crypt/static/js/main.281a19eb.js",
+    "main.css": "/Ende-Crypt/static/css/main.091d2adf.css",
+    "main.js": "/Ende-Crypt/static/js/main.ea0ed26f.js",
     "static/js/787.6fed7b22.chunk.js": "/Ende-Crypt/static/js/787.6fed7b22.chunk.js",
     "index.html": "/Ende-Crypt/index.html",
-    "main.14fd4eae.css.map": "/Ende-Crypt/static/css/main.14fd4eae.css.map",
-    "main.281a19eb.js.map": "/Ende-Crypt/static/js/main.281a19eb.js.map",
+    "main.091d2adf.css.map": "/Ende-Crypt/static/css/main.091d2adf.css.map",
+    "main.ea0ed26f.js.map": "/Ende-Crypt/static/js/main.ea0ed26f.js.map",
     "787.6fed7b22.chunk.js.map": "/Ende-Crypt/static/js/787.6fed7b22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14fd4eae.css",
-    "static/js/main.281a19eb.js"
+    "static/css/main.091d2adf.css",
+    "static/js/main.ea0ed26f.js"
   ]
 }
